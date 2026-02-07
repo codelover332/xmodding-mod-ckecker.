@@ -1,0 +1,5 @@
+C:\Users\artwi\Downloads\LibrePad-1.0.0\LibrePad-1.0.0\obj\Debug\netstandard2.1\XMODDING.IgnoresAccessChecksTo.cs
+C:\Users\artwi\Downloads\LibrePad-1.0.0\LibrePad-1.0.0\obj\Debug\netstandard2.1\XMODDING.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artwi\Downloads\LibrePad-1.0.0\LibrePad-1.0.0\obj\Debug\netstandard2.1\XMODDING.AssemblyInfoInputs.cache
+C:\Users\artwi\Downloads\LibrePad-1.0.0\LibrePad-1.0.0\obj\Debug\netstandard2.1\XMODDING.AssemblyInfo.cs
+C:\Users\artwi\Downloads\LibrePad-1.0.0\LibrePad-1.0.0\obj\Debug\netstandard2.1\XMODDING.csproj.CoreCompileInputs.cache
